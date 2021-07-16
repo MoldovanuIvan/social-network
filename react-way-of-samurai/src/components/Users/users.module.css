@@ -1,0 +1,19 @@
+.userPhoto {
+     width: 100px;
+    height: 100px;
+}
+
+.wrapper{
+    display: flex;
+}
+
+.photoWrapper{
+    padding: 15px 0px 0px 30px;
+}
+
+.selectedPage{
+    font-weight: 700;
+    }
+.cursor{
+    cursor: pointer;
+}
